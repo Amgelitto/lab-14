@@ -1,0 +1,36 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+
+}
+header{
+    background-color: black;
+    color: white;
+    padding: 1px;
+    text-align: center;
+}
+main{
+    padding: 2em;
+
+}
+nav{
+    align-items: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 1em;
+}
+nav ul{
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1em 0;
+
+}
